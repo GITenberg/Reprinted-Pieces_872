@@ -1,5 +1,5 @@
 _repo: Reprinted-Pieces_872
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Short stories'
 - !lcsh 'Fiction'
 - !lcsh 'Essays'
+- GITenberg
 tableOfContents: 'The long voyage -- The begging-letter writer -- A child''s dream
   of a star -- Our English watering-place -- Our French watering-place -- Bill-sticking
   -- Births: Mrs. Meek, of a son -- Lying awake -- The ghost of art -- Out of town
